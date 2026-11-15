@@ -5,7 +5,7 @@
   "description": "Read academy records available to your connected Academy Manager account.",
   "author": { "name": "Academy Manager", "url": "https://academy-manager.app" },
   "homepage": "https://academy-manager.app",
-  "repository": "https://github.com/dongheelee92/academy-manager-plugins",
+  "repository": "https://github.com/samz-labs/academy-manager-plugins",
   "license": "LicenseRef-Academy-Manager-Proprietary",
   "keywords": ["academy", "attendance", "education"],
   "extensions": {
@@ -18,7 +18,7 @@
         "category": "Productivity",
         "capabilities": ["Read"],
         "websiteURL": "https://academy-manager.app",
-        "supportURL": "https://github.com/dongheelee92/academy-manager-plugins/issues",
+        "supportURL": "https://github.com/samz-labs/academy-manager-plugins/issues",
         "privacyPolicyURL": "https://academy-manager.app/legal/privacy",
         "termsOfServiceURL": "https://academy-manager.app/legal/terms",
         "composerIcon": "./assets/icon.svg",

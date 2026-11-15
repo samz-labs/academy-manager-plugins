@@ -9,7 +9,7 @@ Ask about students, attendance, classes, stored lessons, makeup lessons, billing
 - Website: https://academy-manager.app
 - Privacy: https://academy-manager.app/legal/privacy
 - Terms: https://academy-manager.app/legal/terms
-- Planned support: https://github.com/dongheelee92/academy-manager-plugins/issues
+- Planned support: https://github.com/samz-labs/academy-manager-plugins/issues
 
 This is a submission draft. Public publication requires the production MCP server, a separate connector listing, this bundle's public GitHub repository, verified ownership, final legal review, and a populated synthetic reviewer account. The planned support repository is not verified by a local build.
 
