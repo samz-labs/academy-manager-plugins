@@ -11,7 +11,7 @@ The initial connection requests the six read permissions used by these features.
 - Website: https://academy-manager.app
 - Privacy: https://academy-manager.app/legal/privacy
 - Terms: https://academy-manager.app/legal/terms
-- Planned support: https://github.com/dongheelee92/academy-manager-plugins/issues
+- Planned support: https://github.com/samz-labs/academy-manager-plugins/issues
 
 This is a submission draft. The production MCP endpoint, planned support repository, verified publisher identity, final legal text, host validation, and public directory publication remain separate launch gates. A local package build does not verify any of them. The review cases describe synthetic review data that must be prepared and tested in a dedicated reviewer account. No reviewer credentials or demo recording are included in this package.
 
